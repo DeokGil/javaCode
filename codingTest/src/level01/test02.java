@@ -1,4 +1,4 @@
-package test;
+package level01;
 
 public class test02 {
 // 평균구하
