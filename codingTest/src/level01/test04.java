@@ -2,7 +2,7 @@ package level01;
 
 import java.util.Scanner;
 
-public class test4 {
+public class test04 {
 // 자릿수 더하기
 	
 /*	
